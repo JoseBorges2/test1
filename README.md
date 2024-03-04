@@ -1,3 +1,3 @@
 # test1
 
-config git
+config git inicial
